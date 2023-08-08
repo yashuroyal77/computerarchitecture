@@ -1,0 +1,6 @@
+lda 8000
+mov b,a
+lda 8001
+sub b
+sta 8002
+hlt

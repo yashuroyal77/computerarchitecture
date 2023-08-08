@@ -1,0 +1,6 @@
+mvi a,05
+mvi b,05
+add b
+mov c,a
+sta 8002
+hlt
